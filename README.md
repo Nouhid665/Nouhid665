@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @NOUHID SIDDIQUI
-- 👀 I’m interested in GAME DEVLOPMENT AND AI TOOLS
-- 🌱 I’m currently learning GAME DEVLOPMENT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nouhidsidd123@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- 👀 I’m interested AI models
+- 🌱 I’m currently learning AI and DSA
+-  📫 How to reach me nouhidsidd123@gmail.com
 
 <!---
 Nouhid665/Nouhid665 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
